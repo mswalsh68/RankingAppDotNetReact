@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankingAppDotNetReact.Server", "RankingAppDotNetReact.Server\RankingAppDotNetReact.Server.csproj", "{EBA177EB-0229-4C0C-954B-3C5076DD340E}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "rankingappdotnetreact.client", "rankingappdotnetreact.client\rankingappdotnetreact.client.esproj", "{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA177EB-0229-4C0C-954B-3C5076DD340E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA177EB-0229-4C0C-954B-3C5076DD340E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA177EB-0229-4C0C-954B-3C5076DD340E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA177EB-0229-4C0C-954B-3C5076DD340E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0856824-112E-48CF-8E26-5708EAEFF93C}
+	EndGlobalSection
+EndGlobal

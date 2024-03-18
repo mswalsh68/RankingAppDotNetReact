@@ -1,0 +1,1 @@
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\rankingappdotnetreact.client\obj\Debug\rankingappdotnetreact.client.esproj.CoreCompileInputs.cache

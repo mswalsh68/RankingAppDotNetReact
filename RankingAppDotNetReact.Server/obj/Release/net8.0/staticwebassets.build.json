@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "h7DQ1C2aAkE9Ee3UUQ3sPx3OU49ZIUpAFd8mQVTlBDc=",
+  "Source": "RankingAppDotNetReact.Server",
+  "BasePath": "_content/RankingAppDotNetReact.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj",
+      "Version": 2,
+      "Source": "rankingappdotnetreact.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

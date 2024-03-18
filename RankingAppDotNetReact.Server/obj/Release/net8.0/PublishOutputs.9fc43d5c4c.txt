@@ -1,0 +1,12 @@
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\RankingAppDotNetReact.Server.exe
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\RankingAppDotNetReact.Server.dll
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\RankingAppDotNetReact.Server.deps.json
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\RankingAppDotNetReact.Server.runtimeconfig.json
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\RankingAppDotNetReact.Server.pdb
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mikew\OneDrive\Desktop\GitHub\RankingAppDotNetReact\RankingAppDotNetReact.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

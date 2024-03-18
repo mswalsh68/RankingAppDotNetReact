@@ -1,0 +1,169 @@
+﻿*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: floralwhite;
+}
+
+/* ------ Navbar ------ */
+
+.navbar {
+    height: auto;
+    background: rgb(147, 181, 211);
+}
+
+.navbar-expand-md {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+    .navbar a:hover,
+    .navbar a:focus {
+        background: black;
+        color: white;
+        font-weight: 500;
+    }
+
+.nav-item {
+    display: inline-flex;
+    justify-content: flex-end;
+    padding: 1rem;
+}
+
+.navbar-collapse .nav-item {
+    display: block;
+    gap: 1rem;
+}
+
+.navbar-toggler-icon {
+    display: grid;
+    align-items: flex-end;
+}
+
+#nav {
+    justify-content: flex-end;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.mainLogo {
+    display: grid;
+    justify-items: center;
+    border-radius: 50%;
+    height: 10rem;
+    padding: 1rem;
+}
+
+/* ------ Footer ------ */
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 2rem;
+    padding: 2rem;
+    grid-template-columns: repeat(2, 1fr);
+    background: rgb(147, 181, 211);
+}
+
+.footer a {
+    display: grid;
+    text-align: center;
+}
+
+.creator {
+    display: grid;
+    text-align: center;
+}
+
+/* ------ Main Body Sizing ------ */
+
+.main-body {
+    min-height: 100vh;
+    padding: 1rem;
+    background: rgba(147, 181, 211, 0.37);
+    display:flex;
+    align-items: center;
+    flex-direction:column;
+}
+
+/* ------ Rank Items ------ */
+
+.items-not-ranked{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 15px;
+}
+
+.unranked-cell{
+    width: 80px;
+    text-align: center;
+    margin-left: 3px;
+}
+
+.unranked-cell img, .rank-cell img{
+    width: 100%;
+    height: 100%;
+}
+
+/* ------ Ranking Grid ------*/
+
+.rankings {
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    justify-self: center;
+    margin-bottom: 15px;
+}
+
+.rank-row {
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3px;
+    margin-bottom: 4px;
+    border-radius: 10px;
+}
+
+.top-tier {
+    background-color: yellow;
+}
+
+.middle-tier {
+    background-color: greenyellow;
+}
+
+.bottom-tier {
+    background-color: brown;
+}
+
+.worst-tier {
+    background-color: red;
+}
+
+.rank-cell, .row-label {
+    width: 80px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.reset-button{
+    width:fit-content;
+    place-self: center;
+    padding: .5rem;
+    border-radius: 10px;
+}
+

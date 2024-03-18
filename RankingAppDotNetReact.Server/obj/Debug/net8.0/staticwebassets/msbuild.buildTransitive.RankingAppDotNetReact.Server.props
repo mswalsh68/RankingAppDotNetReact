@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RankingAppDotNetReact.Server.props" />
+</Project>

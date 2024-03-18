@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|c:\\users\\mikew\\onedrive\\desktop\\github\\rankingappdotnetreact\\rankingappdotnetreact.client\\src\\components\\navmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|solutionrelative:rankingappdotnetreact.client\\src\\components\\navmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA177EB-0229-4C0C-954B-3C5076DD340E}|RankingAppDotNetReact.Server\\RankingAppDotNetReact.Server.csproj|C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.server\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA177EB-0229-4C0C-954B-3C5076DD340E}|RankingAppDotNetReact.Server\\RankingAppDotNetReact.Server.csproj|solutionrelative:rankingappdotnetreact.server\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA177EB-0229-4C0C-954B-3C5076DD340E}|RankingAppDotNetReact.Server\\RankingAppDotNetReact.Server.csproj|C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA177EB-0229-4C0C-954B-3C5076DD340E}|RankingAppDotNetReact.Server\\RankingAppDotNetReact.Server.csproj|solutionrelative:rankingappdotnetreact.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA177EB-0229-4C0C-954B-3C5076DD340E}|RankingAppDotNetReact.Server\\RankingAppDotNetReact.Server.csproj|C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.server\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA177EB-0229-4C0C-954B-3C5076DD340E}|RankingAppDotNetReact.Server\\RankingAppDotNetReact.Server.csproj|solutionrelative:rankingappdotnetreact.server\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|solutionrelative:rankingappdotnetreact.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|solutionrelative:rankingappdotnetreact.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|solutionrelative:rankingappdotnetreact.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|solutionrelative:rankingappdotnetreact.client\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|solutionrelative:rankingappdotnetreact.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\components\\item.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F4243CB-00F2-47F9-9F0D-F51CFB16D62E}|rankingappdotnetreact.client\\rankingappdotnetreact.client.esproj|solutionrelative:rankingappdotnetreact.client\\src\\components\\item.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\RankingAppDotNetReact.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RankingAppDotNetReact.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\RankingAppDotNetReact.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RankingAppDotNetReact.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:10:07.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\RankingAppDotNetReact.Server\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "RankingAppDotNetReact.Server\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\RankingAppDotNetReact.Server\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "RankingAppDotNetReact.Server\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:10:04.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\App.css",
+              "RelativeDocumentMoniker": "rankingappdotnetreact.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\App.css",
+              "RelativeToolTip": "rankingappdotnetreact.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-15T18:08:29.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "rankingappdotnetreact.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\App.jsx",
+              "RelativeToolTip": "rankingappdotnetreact.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-15T18:05:18.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.jsx",
+              "DocumentMoniker": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\Components\\NavMenu.jsx",
+              "RelativeDocumentMoniker": "rankingappdotnetreact.client\\src\\Components\\NavMenu.jsx",
+              "ToolTip": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\Components\\NavMenu.jsx",
+              "RelativeToolTip": "rankingappdotnetreact.client\\src\\Components\\NavMenu.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-15T17:43:42.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Footer.jsx",
+              "DocumentMoniker": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\Components\\Footer.jsx",
+              "RelativeDocumentMoniker": "rankingappdotnetreact.client\\src\\Components\\Footer.jsx",
+              "ToolTip": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\Components\\Footer.jsx",
+              "RelativeToolTip": "rankingappdotnetreact.client\\src\\Components\\Footer.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-15T18:05:14.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\index.html",
+              "RelativeDocumentMoniker": "rankingappdotnetreact.client\\index.html",
+              "ToolTip": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\index.html",
+              "RelativeToolTip": "rankingappdotnetreact.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-15T18:01:20.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "rankingappdotnetreact.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\styles.css",
+              "RelativeToolTip": "rankingappdotnetreact.client\\src\\styles.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-15T17:43:57.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.jsx",
+              "DocumentMoniker": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\Components\\Item.jsx",
+              "RelativeDocumentMoniker": "rankingappdotnetreact.client\\src\\Components\\Item.jsx",
+              "ToolTip": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\rankingappdotnetreact.client\\src\\Components\\Item.jsx",
+              "RelativeToolTip": "rankingappdotnetreact.client\\src\\Components\\Item.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-15T17:41:06.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\RankingAppDotNetReact.Server\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "RankingAppDotNetReact.Server\\Models\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\mikew\\OneDrive\\Desktop\\GitHub\\RankingAppDotNetReact\\RankingAppDotNetReact.Server\\Models\\ItemModel.cs",
+              "RelativeToolTip": "RankingAppDotNetReact.Server\\Models\\ItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:52:17.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
